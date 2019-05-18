@@ -1,11 +1,25 @@
-# Brewing journal
+# Brouw log
+
+## 17/05/2019
+Ingrediënten uit: [Moutpakket Bavarienfest](https://www.brouwland.com/nl/onze-producten/brouwpakketten/brewferm-moutpakketten/d/moutpakket-brewferm-bavarienfest-vr-20-ltr). Dit pakket is bedoeld voor 20 liter bier, maar dat krijg ik niet in mijn emmerke. Enige creativiteit is dus vereist.
+
+- 1200 gr. mout geschroot met het nieuwe moutmolentje (afstellen !!)
+- 4l beslag water & 3l spoelwater
+- na het maischen en spoelen had ik 6l wort
+- bij het koken heb ik "hop 1" een 20-tal minuten eruit gehaald (beetje compensatie)
+- het koelen ging wat moeizamer, maar toch nog wel ok
+- giststarter gemaakt (200g water + 1 afgestreken EL suiker) met droge korrelgist
+- na koken had ik minder dan 6l over, dus heb ik bijgevuld met gewoon water (?)
+- dichtheid 1047
+- in de kelder gezet met een dekentje
+
+
+## 23/02/2019
+Zaterdagavond, 23 februari 2019, waren de kindjes logeren en Ellen een weekend weg ... ideaal. 's Morgens naar [Brouwland](https://www.brouwland.com/nl) gereden in Beverlo en het nodige materiaal gekocht, overdag kindjes halen en 's avond ... brouwen. !!
 
 ## 27/08/2018
 Een brouwbroeders starterpakket cadeau gekregen voor mijn verjaardag van Matt & Jess: [Starterspakket Belgish Blond](https://www.brouwbroeders.nl/products/starterspakket-belgisch-blond)
-
 Gezien brouwen een "geur" met zich meebrengt, heb ik besloten tot ik een weekend alleen thuis was. Ik had ook nog wat materiaal nodig (een hydrometer + maatglas en een thermometer) en wou wachten of dit misschien onder de kerstboom zou liggen. Helaas.
-Zaterdagavond, 23 februari 2019, waren de kindjes logeren en Ellen een weekend weg ... ideaal. 's Morgens naar [Brouwland](https://www.brouwland.com/nl) gereden in Beverlo en het nodige materiaal gekocht, overdag kindjes halen en 's avond ... brouwen. !!
-
 
 ## Brouw process
 
