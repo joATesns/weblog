@@ -1,0 +1,18 @@
+body {
+  margin: 0px;
+  background-color: #DDD;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 10px 15%;
+}
+
+/* only to be used for the naviagtoin menu */
+.navigation {
+  background-color: yellow;
+  padding: 0px;
+  margin: 0px;
+  flex-direction: row;
+}

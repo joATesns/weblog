@@ -1,3 +1,14 @@
-baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Hi Hugo, meet Jo"
+baseURL = "http://example.org/"
+buildDrafts = true
+
+theme = "jo"
+publishDir = "docs"
+
+backgroundColor = "blue"
+
+[Author]
+  name = "Jo Vliegen"
+  email = "<i>fname</i>.<i>lname</i>A T<i>gmail.com</i>"
+ 

@@ -1,7 +1,7 @@
 ---
 title: "Generalinfo"
 date: 2019-06-06T14:08:39+02:00
-draft: true
+
 ---
 
 # Brouw log
