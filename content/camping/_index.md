@@ -14,5 +14,12 @@ I like doing this. There might a number of indirect reasons for this, but these 
 
 Father's Day 2018, I've gotten a tent from my family.
 
-![Father's day gift](/images/DSC_1627.jpg)
-<img src="/images/DSC_1627.jpg" alt="present">
+<img src="/images/DSC_1627.jpg" alt="present" class="default">
+
+I needs no further argumentation that you want to **play** with your toys. So the first camping trips came quickly.
+
+Father's Day 2019, I've gotten an additional module.
+
+<img src="/images/DSC_1627.jpg" alt="present 2019" class="default">
+
+Needless to say ... this needs to be tested.
