@@ -29,6 +29,6 @@ function updateTargetOfLinks() {
 }
 
 $(window).on('load', function() {
-    altToCaption();
-    updateTargetOfLinks();
+    // altToCaption();
+    /* updateTargetOfLinks(); */
 });

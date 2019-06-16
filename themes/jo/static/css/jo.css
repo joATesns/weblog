@@ -1,6 +1,7 @@
 body {
   margin: 0px;
   background-color: #DDD;
+  overflow-y: scroll;
 }
 .container {
   display: flex;
@@ -12,9 +13,7 @@ body {
 /* only to be used for the naviagtoin menu */
 .navigation {
   background-color: yellow;
-  padding: 0px;
-  margin: 0px;
-  flex-direction: row;
+  height: 80px;
 }
 
 img.default {
@@ -32,4 +31,22 @@ img.default {
 
 .label {
   width: 50%;
+}
+
+.footer {
+  height: 60px;
+  background-color: black;
+  color: #F0F0F0;
+}
+
+.footer a {
+  color: #F0F0F0;
+  text-decoration: underline;
+}
+
+.columnCellAsRow {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
 }

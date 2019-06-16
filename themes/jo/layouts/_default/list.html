@@ -1,14 +1,8 @@
 {{ partial "header" . }}
 
 
-<div>
-
-  <h1>{{ .Title }} </h1>
-  
-  <article id="content">
-    {{ .Content }}
-  </article>
-</div>
+  <div>{{.Content}}</div>
+  <div>Content created on: {{ dateFormat "Monday, Jan 2, 2006" .Date }}</div>
 
 <div>
   <ul>
