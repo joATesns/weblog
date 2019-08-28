@@ -6,6 +6,6 @@ draft: true
 
 ## This a hobby/personal blog
 
-Two activities I'm tracking at the moment are: camping and brewing.
+Three activities I'm tracking at the moment are: camping, brewing, and astronomy.
 
 More info and log entries can be found here.
