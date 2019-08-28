@@ -3,6 +3,7 @@ body {
   background-color: #DDD;
   overflow-y: scroll;
 }
+
 .container {
   display: flex;
   flex-direction: column;
@@ -10,16 +11,39 @@ body {
   padding: 10px 15%;
 }
 
-/*
-div.ast {
-  background-image: url('/images/bg_astronomy.jpg'); 
-  color: white;
-}*/
+/* GENERAL */
+.columnCellAsRow {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
 
-/* only to be used for the naviagtoin menu */
+/* only to be used for the navigation menu */
 .navigation {
   background-color: yellow;
   height: 80px;
+}
+
+.navitem {
+  text-align: center;
+}
+.navitem a {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* only to be used for main content */
+.content h2 {
+  padding: 0px 50px;
+}
+
+.content p {
+  padding: 0px 100px;
+}
+
+.content ul {
+  padding: 0px 100px;
 }
 
 img.default {
@@ -39,6 +63,7 @@ img.default {
   width: 50%;
 }
 
+/* only to be used for the footer */
 .footer {
   height: 60px;
   background-color: black;
@@ -50,9 +75,3 @@ img.default {
   text-decoration: underline;
 }
 
-.columnCellAsRow {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-  align-items: center;
-}

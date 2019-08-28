@@ -1,18 +1,21 @@
 {{ partial "header" . }}
 
+  <div class="content">
 
-  <div>{{.Content}}</div>
-  <div>Content created on: {{ dateFormat "Monday, Jan 2, 2006" .Date }}</div>
+    {{.Content}}
 
-<div>
-  <ul>
-  <!-- Ranges through content/posts/*.md -->
-  {{ range .Pages }}
-    <li>
-        <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
-    </li>
-  {{ end }}
-  </ul>
-</div>
+    <div>
+      <ul>
+      <!-- Ranges through content/posts/*.md -->
+      {{ range .Pages }}
+        <li>
+            <!--<a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>-->
+            <a href="{{.Permalink}}">{{.Title}}</a>
+        </li>
+      {{ end }}
+      </ul>
+    </div>
+
+  </div>
 
 {{ partial "footer" . }}

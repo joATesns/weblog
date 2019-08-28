@@ -1,5 +1,5 @@
 ---
-title: "Clervaux"
+title: "Camping Clervaux - Clervaux"
 date: 2019-08-28T14:40:06+02:00
 draft: true
 ---
