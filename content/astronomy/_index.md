@@ -4,8 +4,9 @@ date: 2019-08-28T14:35:00+02:00
 draft: true
 ---
 
+<!--<div class="ast">-->
 
-## How I got into this
+## How I've gotten into this
 Well, I can't remember a time I was **not** into astronomy (and space-stuff). Although I never actively spend a huge amount of hours stargazing, I did look up occasionaly. For my 38th birthday, my wife, kids and in laws bought me my first [telescope](https://www.meade.com/infinity-90mm-altazimuth-refractor.html).
 
 What happened after that, I summarised here.
@@ -17,7 +18,7 @@ Cheers
 jo
 
 ## So ... whereto next ?
-
+<!--</div>-->
 
 <!-- Gezien brouwen een "geur" met zich meebrengt, heb ik besloten tot ik een weekend alleen thuis was. Ik had ook nog wat materiaal nodig (een hydrometer + maatglas en een thermometer) en wou wachten of dit misschien onder de kerstboom zou liggen. Helaas. -->
 <!--  -->

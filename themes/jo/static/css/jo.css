@@ -10,6 +10,12 @@ body {
   padding: 10px 15%;
 }
 
+/*
+div.ast {
+  background-image: url('/images/bg_astronomy.jpg'); 
+  color: white;
+}*/
+
 /* only to be used for the naviagtoin menu */
 .navigation {
   background-color: yellow;
