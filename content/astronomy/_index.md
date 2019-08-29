@@ -1,5 +1,5 @@
 ---
-title: "Area 50 Astronomy"
+title: "Area 52 Astronomy"
 date: 2019-08-28T14:35:00+02:00
 draft: true
 ---
@@ -16,6 +16,7 @@ Cheers
 jo
 
 ## So ... whereto next ?
+Below is a list of dates on which I was able to browse the sky. Living in a city in Belgium, means the conditions are not perfect on a daily basis ;-)
 
 <!-- Gezien brouwen een "geur" met zich meebrengt, heb ik besloten tot ik een weekend alleen thuis was. Ik had ook nog wat materiaal nodig (een hydrometer + maatglas en een thermometer) en wou wachten of dit misschien onder de kerstboom zou liggen. Helaas. -->
 <!--  -->

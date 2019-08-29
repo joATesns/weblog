@@ -46,6 +46,10 @@ body {
   padding: 0px 100px;
 }
 
+.content ul.pageslist {
+  padding: 0px 150px;
+}
+
 img.default {
   width: 800px;
   border: 2px solid #333333;
