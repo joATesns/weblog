@@ -4,12 +4,12 @@ date: 2019-06-09T09:32:25+02:00
 draft: true
 ---
 
-## How I've got into this
+## How I've got into this ... Camping
 I like doing this. There might a number of indirect reasons for this, but these are merely weak pointers at best.
 
-* my mother used to camp a lot. If I remember correctly, all her childhood holiday's were camping trips.
-* maybe it secretly make me believe I'm in Faer&ucirc;n
 * it's a 100% "Come as you are"-thing
+* my mother used to camp a lot. If I remember correctly, all her childhood holiday's were camping trips.
+* maybe it secretly makes me believe I'm in Faer&ucirc;n
 * my preference of camping tuxedo's over regular ones
 
 Father's Day 2018, I've gotten a tent from my family.
