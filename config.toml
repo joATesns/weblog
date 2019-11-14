@@ -12,4 +12,4 @@ backgroundColor = "blue"
   name = "Jo Vliegen"
   email = "<i>fname</i>.<i>lname</i>A T<i>gmail.com</i>"
  
-[blackfriday] hrefTargetBlank = true
+# [blackfriday] hrefTargetBlank = "true"
