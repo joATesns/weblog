@@ -2,8 +2,11 @@
 title: "Area 52 Brewing"
 date: 2019-06-06T14:09:43+02:00
 draft: true
+type: "posts"
 ---
 
+link to General Info
+link to Links
 
 ## How I've got into this ... Brewing
 It's all the fault of my (younger) brother (and his girlfriend). For my 37th birthday they gave me a [starter kit](https://www.brouwbroeders.nl/products/starterspakket-belgisch-blond) for home brewing as a present.
