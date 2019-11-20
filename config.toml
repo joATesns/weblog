@@ -1,15 +1,63 @@
 languageCode = "en-us"
-title = "Hi Hugo, meet Jo"
-baseURL = "http://example.org/"
+
+baseURL = "/"
 buildDrafts = true
 
-theme = "jo"
+theme = "terminal"
 publishDir = "docs"
 
-backgroundColor = "blue"
 
 [Author]
   name = "Jo Vliegen"
   email = "<i>fname</i>.<i>lname</i>A T<i>gmail.com</i>"
  
-# [blackfriday] hrefTargetBlank = "true"
+
+paginate = 3
+[params]
+  # dir name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+  # ["orange", "blue", "red", "green", "pink"]
+  themeColor = "blue"
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 4
+  # show selector to switch language
+  showLanguageSelector = false
+  # set theme to full screen width
+  fullWidthTheme = true
+  # center theme with default width
+  centerTheme = false
+  # set a custom favicon (default is a `themeColor` square)
+  favicon = "favicon.ico"
+  showFullContent = true
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "A personal ABC² weblog"
+    keywords = ""
+    copyright = ""
+    # menuMore = "Show more"
+    # readMore = "Read more"
+    # readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "A personal ABC² weblog"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "astronomy"
+        name = "Astronomy"
+        url = "/astronomy"
+      [[languages.en.menu.main]]
+        identifier = "brewing"
+        name = "Brewing"
+        url = "/brewing"
+      [[languages.en.menu.main]]
+        identifier = "camping"
+        name = "Camping"
+        url = "/camping"
+      [[languages.en.menu.main]]
+        identifier = "coding"
+        name = "Coding"
+        url = "/coding"

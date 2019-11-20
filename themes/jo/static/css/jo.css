@@ -1,6 +1,6 @@
 body {
   margin: 0px;
-  background-color: #DDD;
+  background-color: red;
   overflow-y: scroll;
 }
 
@@ -62,7 +62,7 @@ div.content div.columnCellAsRow img {
   width: 400px;
   border: 1px solid #333333;
   padding: 5px;
-  background-color: #EEEEEE;
+  background-color: #1D1E28;
 }
 }
 

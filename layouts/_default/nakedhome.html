@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="{{ $.Site.Language }}">
+<head>
+  {{ block "title" . }}
+    <title>{{ if .IsHome }}{{ $.Site.Title }}{{ with $.Site.Params.Subtitle }} — {{ . }}{{ end }}{{ else }}{{ .Title }} :: {{ $.Site.Title }}{{ with $.Site.Params.Subtitle }} — {{ . }}{{ end }}{{ end }}</title>
+  {{ end }}
+  {{ partial "head.html" . }}
+</head>
+<body class="">
+{{ $container := cond $.Site.Params.FullWidthTheme "container full" (cond $.Site.Params.CenterTheme "container center" "container") }}
+
+<div class="{{- $container -}}">
+
+  <header class="header">
+    <div class="header__inner">
+      <div class="header__logo">
+        {{ partial "logo.html" . }}
+      </div>
+      <div class="menu-trigger">menu</div>
+    </div>
+  </header>
+
+  <div style="height: 30px">&nbsp;</div>
+  <div class="content">
+    <h2>{{ .Title}}</h2>
+    {{ .Content }}
+  </div>
+
+  {{ block "footer" . }}
+    {{ partial "footer.html" . }}
+  {{ end }}
+</div>
+
+</body>
+</html>
