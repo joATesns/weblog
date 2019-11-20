@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Area 52 Camping on A personal ABC² weblog</title>
+    <link>/camping/</link>
+    <description>Recent content in Area 52 Camping on A personal ABC² weblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</managingEditor>
+    <webMaster>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</webMaster>
+    <lastBuildDate>Sun, 09 Jun 2019 09:32:25 +0200</lastBuildDate>
+    
+	<atom:link href="/camping/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Camping Clervaux - Clervaux</title>
+      <link>/camping/clervaux/</link>
+      <pubDate>Wed, 28 Aug 2019 14:40:06 +0200</pubDate>
+      <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
+      <guid>/camping/clervaux/</guid>
+      <description>Traditions are to be kept alive (freely translated after a Dutch saying) !! So, we went on a camping trip with my brothers and his girlfriend. Deciding on the location is not an easy job, 3 days prior to departure. We&amp;rsquo;ve to take a dog, kids, the weather, distance and availability into account. After a quick search, we&amp;rsquo;ve decided to go to Clervaux, Luxemburg. The camping was originaly named: Camping Clervaux.</description>
+    </item>
+    
+    <item>
+      <title>&#39;t Soete Dal - Zutendaal</title>
+      <link>/camping/tsoetedal/</link>
+      <pubDate>Sun, 09 Jun 2019 09:53:01 +0200</pubDate>
+      <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
+      <guid>/camping/tsoetedal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Les Jonquilles - Xonrupt-Longemer</title>
+      <link>/camping/lesjonquilles/</link>
+      <pubDate>Sun, 09 Jun 2019 09:51:08 +0200</pubDate>
+      <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
+      <guid>/camping/lesjonquilles/</guid>
+      <description>Place: Xonrupt-Longemer, France Period: Aug 29 - Sep 02 2018 Company: Matt, Jess &amp;amp; Cooper</description>
+    </item>
+    
+  </channel>
+</rss>

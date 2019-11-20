@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Various on A personal ABC² weblog</title>
+    <link>/various/</link>
+    <description>Recent content in Various on A personal ABC² weblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</managingEditor>
+    <webMaster>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</webMaster>
+    <lastBuildDate>Wed, 20 Nov 2019 07:28:00 +0100</lastBuildDate>
+    
+	<atom:link href="/various/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kerstlijst - 2019</title>
+      <link>/various/kerstlijst2019/</link>
+      <pubDate>Wed, 20 Nov 2019 07:28:00 +0100</pubDate>
+      <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
+      <guid>/various/kerstlijst2019/</guid>
+      <description> een paar winddichte, zwarte fiets-handsschoenen stevige rekken voor in de kelder boek: DNA, Lieven Scheire, 2019 interactief puzzelboek: Journal29  </description>
+    </item>
+    
+  </channel>
+</rss>

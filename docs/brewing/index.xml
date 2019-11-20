@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Area 52 Brewing on A personal ABC² weblog</title>
+    <link>/brewing/</link>
+    <description>Recent content in Area 52 Brewing on A personal ABC² weblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</managingEditor>
+    <webMaster>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</webMaster>
+    <lastBuildDate>Thu, 06 Jun 2019 14:09:43 +0200</lastBuildDate>
+    
+	<atom:link href="/brewing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Links</title>
+      <link>/brewing/links/</link>
+      <pubDate>Thu, 06 Jun 2019 22:43:13 +0200</pubDate>
+      <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
+      <guid>/brewing/links/</guid>
+      <description> Links to intersting reads can be found here </description>
+    </item>
+    
+    <item>
+      <title>Generalinfo</title>
+      <link>/brewing/generalinfo/</link>
+      <pubDate>Thu, 06 Jun 2019 14:08:39 +0200</pubDate>
+      <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
+      <guid>/brewing/generalinfo/</guid>
+      <description>Brouw log Brouw process Gerst (Hordeum vulgare): graansoort * deel van de grassenfamilie * zomer- en wintergerst: 1-jarige en 2-jarige respectievelijk
+Mouten: vorming van enzymen deze enzymen zetten zetmeel om in vergistbare suikers
+Het reinigen en sorteren van het graan. Hierbij worden stof, kaf, andere granen en onkruidzaden verwijderd met een wanmolen en een trijzel.
+Het weken van het graan. Hierbij wordt het met periodes onder water gezet zodat het vochtgehalte stijgt van 12 à 16 procent tot ongeveer 45 procent, koolzuur uit het graan ontsnapt en het graan wordt belucht.</description>
+    </item>
+    
+    <item>
+      <title>Batch 190517</title>
+      <link>/brewing/190517/</link>
+      <pubDate>Thu, 06 Jun 2019 14:08:18 +0200</pubDate>
+      <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
+      <guid>/brewing/190517/</guid>
+      <description>Brewing date: May 17th 2019 Ingrediënten uit: Moutpakket Bavarienfest. Dit pakket is bedoeld voor 20 liter bier, maar dat krijg ik niet in mijn emmerke. Enige creativiteit is dus vereist.
+ 1200 gr. mout geschroot met het nieuwe moutmolentje (afstellen !!) 4l beslag water &amp;amp; 3l spoelwater na het maischen en spoelen had ik 6l wort bij het koken heb ik &amp;ldquo;hop 1&amp;rdquo; een 20-tal minuten eruit gehaald (beetje compensatie) het koelen ging wat moeizamer, maar toch nog wel ok giststarter gemaakt (200g water + 1 afgestreken EL suiker) met droge korrelgist na koken had ik minder dan 6l over, dus heb ik bijgevuld met gewoon water (?</description>
+    </item>
+    
+    <item>
+      <title>Batch 190223</title>
+      <link>/brewing/190223/</link>
+      <pubDate>Thu, 06 Jun 2019 14:07:46 +0200</pubDate>
+      <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
+      <guid>/brewing/190223/</guid>
+      <description> Brewing date: February 23rd 2019 Zaterdagavond, 23 februari 2019, waren de kindjes logeren en Ellen een weekend weg &amp;hellip; ideaal. &amp;rsquo;s Morgens naar Brouwland gereden in Beverlo en het nodige materiaal gekocht, overdag kindjes halen en &amp;rsquo;s avond &amp;hellip; brouwen. !!
+Bottling date: March 9th 2019 </description>
+    </item>
+    
+  </channel>
+</rss>
