@@ -1,6 +1,6 @@
 languageCode = "en-us"
 
-baseURL = "https://jo.jkl52.be/"
+baseURL = "https://jo.jkl52.be"
 buildDrafts = true
 
 theme = "terminal"
