@@ -7,4 +7,5 @@ layout: "nakedhome"
 * een paar winddichte, zwarte fiets-handsschoenen
 * **stevige** rekken voor in de kelder
 * boek: [DNA, Lieven Scheire, 2019](https://www.bol.com/nl/p/dna/9200000118976984/?suggestionType=featured_product&suggestedFor=lieven&originalSearchContext=media_all&originalSection=main)
+* boek: [Sterrenbeelden, Govert Schilling 2019](https://www.bol.com/nl/p/sterrenbeelden/9200000108811121/?country=BE&Referrer=ADVNLGOO002008J-HIOLDOCHLU52A-312194578726&gclsrc=aw.ds&ds_rl=1263701&Referrer=ADVNLGOO002008J-HIOLDOCHLU52A-312194578726&gclid=Cj0KCQiAq97uBRCwARIsADTziybUaJKhLMne13CelbU6R_rbv9bSOtgVVP0AyOk2oRhP_m5tqQOK6t8aAoVyEALw_wcB)
 * interactief puzzelboek: [Journal29](https://journal29.com/)
