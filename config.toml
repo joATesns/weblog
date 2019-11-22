@@ -42,7 +42,7 @@ paginate = 3
 
     [languages.en.params.logo]
       logoText = "A personal ABC² weblog"
-      logoHomeLink = "/"
+      logoHomeLink = "https://jvliegen.github.io/weblog/"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
