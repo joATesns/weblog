@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog on A personal ABC² weblog</title>
-    <link>/tags/blog/</link>
+    <link>https://jo.jkl52.be/tags/blog/</link>
     <description>Recent content in blog on A personal ABC² weblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,15 +10,15 @@
     <webMaster>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</webMaster>
     <lastBuildDate>Thu, 05 Sep 2019 22:44:32 +0200</lastBuildDate>
     
-	<atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jo.jkl52.be/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>190905</title>
-      <link>/astronomy/190905/</link>
+      <link>https://jo.jkl52.be/astronomy/190905/</link>
       <pubDate>Thu, 05 Sep 2019 22:44:32 +0200</pubDate>
       <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
-      <guid>/astronomy/190905/</guid>
+      <guid>https://jo.jkl52.be/astronomy/190905/</guid>
       <description>Spotted through Telescope:
  The moon &amp;hellip; which was half (approx.) Jupiter with four of its moons (less aligned) Saturnus
  Polaris
@@ -27,30 +27,30 @@
     
     <item>
       <title>190901</title>
-      <link>/astronomy/190901/</link>
+      <link>https://jo.jkl52.be/astronomy/190901/</link>
       <pubDate>Sun, 01 Sep 2019 22:44:32 +0200</pubDate>
       <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
-      <guid>/astronomy/190901/</guid>
+      <guid>https://jo.jkl52.be/astronomy/190901/</guid>
       <description>Spotted through Telescope:
  The moon &amp;hellip; had to be quick though Jupiter with four of its moons Saturnus  </description>
     </item>
     
     <item>
       <title>190829</title>
-      <link>/astronomy/190829/</link>
+      <link>https://jo.jkl52.be/astronomy/190829/</link>
       <pubDate>Fri, 30 Aug 2019 07:39:50 +0200</pubDate>
       <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
-      <guid>/astronomy/190829/</guid>
+      <guid>https://jo.jkl52.be/astronomy/190829/</guid>
       <description>Spotted through Telescope:
  Jupiter Saturnus Wega  Spotted with the naked eye: * summer triangle * sign: zwaan</description>
     </item>
     
     <item>
       <title>190826</title>
-      <link>/astronomy/190826/</link>
+      <link>https://jo.jkl52.be/astronomy/190826/</link>
       <pubDate>Wed, 28 Aug 2019 14:39:13 +0200</pubDate>
       <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
-      <guid>/astronomy/190826/</guid>
+      <guid>https://jo.jkl52.be/astronomy/190826/</guid>
       <description> I&amp;rsquo;ve spotted Jupiter and 2 of its moons. I&amp;rsquo;ve spotted Wega: main star of starsign: Lier  </description>
     </item>
     
