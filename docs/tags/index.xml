@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on A personal ABC² weblog</title>
-    <link>https://jo.jkl52.be/tags/</link>
+    <link>https://jvliegen.github.io/weblog/tags/</link>
     <description>Recent content in Tags on A personal ABC² weblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,33 +10,33 @@
     <webMaster>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</webMaster>
     <lastBuildDate>Sun, 17 Nov 2019 03:38:18 +0100</lastBuildDate>
     
-	<atom:link href="https://jo.jkl52.be/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jvliegen.github.io/weblog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>astronomy</title>
-      <link>https://jo.jkl52.be/tags/astronomy/</link>
+      <link>https://jvliegen.github.io/weblog/tags/astronomy/</link>
       <pubDate>Sun, 17 Nov 2019 03:38:18 +0100</pubDate>
       <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
-      <guid>https://jo.jkl52.be/tags/astronomy/</guid>
+      <guid>https://jvliegen.github.io/weblog/tags/astronomy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>observation</title>
-      <link>https://jo.jkl52.be/tags/observation/</link>
+      <link>https://jvliegen.github.io/weblog/tags/observation/</link>
       <pubDate>Sun, 17 Nov 2019 03:38:18 +0100</pubDate>
       <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
-      <guid>https://jo.jkl52.be/tags/observation/</guid>
+      <guid>https://jvliegen.github.io/weblog/tags/observation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>blog</title>
-      <link>https://jo.jkl52.be/tags/blog/</link>
+      <link>https://jvliegen.github.io/weblog/tags/blog/</link>
       <pubDate>Thu, 05 Sep 2019 22:44:32 +0200</pubDate>
       <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
-      <guid>https://jo.jkl52.be/tags/blog/</guid>
+      <guid>https://jvliegen.github.io/weblog/tags/blog/</guid>
       <description></description>
     </item>
     

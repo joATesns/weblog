@@ -1,6 +1,6 @@
 languageCode = "en-us"
 
-baseURL = "https://jo.jkl52.be"
+baseURL = "https://jvliegen.github.io/weblog/"
 buildDrafts = true
 
 theme = "terminal"

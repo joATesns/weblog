@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coding on A personal ABC² weblog</title>
-    <link>https://jo.jkl52.be/coding/</link>
+    <link>https://jvliegen.github.io/weblog/coding/</link>
     <description>Recent content in Coding on A personal ABC² weblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,7 +10,7 @@
     <webMaster>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</webMaster>
     <lastBuildDate>Sun, 09 Jun 2019 09:32:25 +0200</lastBuildDate>
     
-	<atom:link href="https://jo.jkl52.be/coding/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jvliegen.github.io/weblog/coding/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
