@@ -11,4 +11,4 @@ publish:
 	$(HUGO)
 	git add -u .
 	git commit -m "publish - `date`"
-	
+	git push
