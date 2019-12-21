@@ -1,11 +1,8 @@
 {{ define "main" }}
-
-<div class="intro">{{ .Content }}</div>
-
 <div class="posts">
   {{ $isntDefault := not (or (eq (trim $.Site.Params.contentTypeName " ") "posts") (eq (trim $.Site.Params.contentTypeName " ") "")) }}
   {{ $contentTypeName := cond $isntDefault (string $.Site.Params.contentTypeName) "posts" }}
-  
+
   {{ $PageContext := . }}
   {{ if .IsHome }}
     {{ $PageContext = .Site }}
@@ -38,9 +35,7 @@
     <img src="{{ . | absURL }}" class="post-cover" />
     {{ end }}
 
-  
     <div class="post-content">
-
       {{ if .Params.showFullContent }}
       {{ .Content | markdownify }}
       {{ else if .Description }}
