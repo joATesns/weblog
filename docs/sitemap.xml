@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jvliegen.github.io/weblog/astronomy/</loc>
+    <lastmod>2019-12-21T02:57:20+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jvliegen.github.io/weblog/astronomy/ccl/</loc>
     <lastmod>2019-12-21T02:57:20+01:00</lastmod>
   </url>
@@ -93,7 +98,7 @@
   </url>
   
   <url>
-    <loc>https://jvliegen.github.io/weblog/astronomy/</loc>
+    <loc>https://jvliegen.github.io/weblog/astronomy/home/</loc>
     <lastmod>2019-08-28T14:35:00+02:00</lastmod>
   </url>
   
