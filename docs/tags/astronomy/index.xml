@@ -8,10 +8,28 @@
     <language>en-us</language>
     <managingEditor>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</managingEditor>
     <webMaster>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</webMaster>
-    <lastBuildDate>Sun, 17 Nov 2019 03:38:18 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2019 03:50:19 +0100</lastBuildDate>
     
 	<atom:link href="https://jvliegen.github.io/weblog/tags/astronomy/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Returning from a bald fun fair</title>
+      <link>https://jvliegen.github.io/weblog/astronomy/191228/</link>
+      <pubDate>Sat, 28 Dec 2019 03:50:19 +0100</pubDate>
+      <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
+      <guid>https://jvliegen.github.io/weblog/astronomy/191228/</guid>
+      <description>CONDITIONS  Time:  03:00 - 03:30  Location:  @ home  Temperature:  4 °C    .astronomy_metadata { display: flex; flex-direction: column; background-color: #1d212c; border: 1px dashed #23b0ff; justify-content: flex-start; } .row { display: flex; flex-direction: row; justify-content: center; } .heading { font-weight: bolder; color: #23b0ff; margin-right: 10px; } .label { font-weight: bold; color: #23b0ff; margin-right: 10px; } @media only screen and (min-width: 768px) { .</description>
+    </item>
+    
+    <item>
+      <title>There are Seven Sisters</title>
+      <link>https://jvliegen.github.io/weblog/astronomy/191221/</link>
+      <pubDate>Sat, 21 Dec 2019 02:56:13 +0100</pubDate>
+      <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
+      <guid>https://jvliegen.github.io/weblog/astronomy/191221/</guid>
+      <description>CONDITIONS  Time:  02:00 - 02:45  Location:  @ home  Temperature:  8 °C    .astronomy_metadata { display: flex; flex-direction: column; background-color: #1d212c; border: 1px dashed #23b0ff; justify-content: flex-start; } .row { display: flex; flex-direction: row; justify-content: center; } .heading { font-weight: bolder; color: #23b0ff; margin-right: 10px; } .label { font-weight: bold; color: #23b0ff; margin-right: 10px; } @media only screen and (min-width: 768px) { .</description>
+    </item>
     
     <item>
       <title>Observation 191117</title>
