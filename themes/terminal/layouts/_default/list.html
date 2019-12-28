@@ -21,7 +21,7 @@
         {{ . }}</span>{{ end }}
     </div>
 
-    {{ if .Params.tags }}
+<!--     {{ if .Params.tags }}
     <span class="post-tags">
       {{ range .Params.tags }}
       #<a href="{{ (urlize (printf "tags/%s/" . )) | absLangURL }}">
@@ -29,7 +29,7 @@
       </a>&nbsp;
       {{ end }}
     </span>
-    {{ end }}
+    {{ end }} -->
 
     {{ with .Params.Cover }}
     <img src="{{ . | absURL }}" class="post-cover" />
@@ -47,12 +47,12 @@
       {{ end }}
     </div>
 
-    {{ if not .Params.showFullContent }}
+<!--     {{ if not .Params.showFullContent }}
     <div>
       <a class="read-more button"
         href="{{.RelPermalink}}">{{ $.Site.Params.ReadMore }} →</a>
     </div>
-    {{ end }}
+    {{ end }} -->
   </div>
   {{ end }}
   {{ partial "pagination.html" . }}

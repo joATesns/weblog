@@ -3,6 +3,7 @@ languageCode = "en-us"
 baseURL = "https://jvliegen.github.io/weblog/"
 buildDrafts = true
 
+#theme = "abc2"
 theme = "terminal"
 publishDir = "docs"
 
