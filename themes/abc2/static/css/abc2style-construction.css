@@ -3,6 +3,8 @@
   --main-bg-color: #101932;
   --highlight-text-color: orange;
   --highlight-bg-color: #202942;
+
+  --header-height: 100px;
 }
 
 body {
@@ -37,6 +39,7 @@ div#header {
   justify-content: flex-start;
   align-items: flex-start;
   width: 100%;
+  height: var(--header-height);
 }
 
 div.header__logo {
@@ -93,7 +96,6 @@ div#footer a, a:hover, a:visited {
 /*
  * MAIN
  */
-div.main {
+div#main {
   width: 100%;
-  text-align: center;
 }
