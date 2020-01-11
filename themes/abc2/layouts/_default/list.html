@@ -1,12 +1,14 @@
 {{ define "main" }}
-  {{ .Content }}
+
+  <div class=content>
+    {{ .Content }}
+  </div>
 
   <div style="display: flex; justify-content: space-around;">
-
     <div style="background-color:green; width: 40%">
       <h3>Most recent posts</h3>
-      {{ range .Pages.ByPublishDate.Reverse }}
-        <div class="submenuitem">
+      {{ range where .Pages "Type" "post" }}
+        <div class="postlink">
           <a href="{{ .URL }}" title="{{ .Title }}">
             {{ .Name }}
           </a>
@@ -16,8 +18,8 @@
 
     <div style="background-color:yellow; width: 40%">
       <h3>Most recent pages</h3>
-      {{ range where .Pages "type" "post" }}
-        <div class="submenuitem">
+      {{ range where .Pages "Type" "page" }}
+        <div class="pagelink">
           <a href="{{ .URL }}" title="{{ .Title }}">
             {{ .Name }}
           </a>

@@ -2,13 +2,10 @@
 title: "Brewing"
 date: 2019-06-06T14:09:43+02:00
 draft: true
-type: "posts"
+type: "page"
 weight: 2
 menu: "mainmenu"
 ---
-
-link to General Info
-link to Links
 
 ## How I've got into this ... Brewing
 It's all the fault of my (younger) brother (and his girlfriend). For my 37th birthday they gave me a [starter kit](https://www.brouwbroeders.nl/products/starterspakket-belgisch-blond) for home brewing as a present.
@@ -19,22 +16,6 @@ What happened after that, I summarised here.
 
 Enjoy ... and don't forget to share a drink.
 
-Cheers
-
-jo
-
-
 
 Oh, and as they typically state in .be: _Beer, brewed with love, you drink responsibly !!_
 
-## So ... whereto next ?
-
-Below is a list of dates on which I was able to home-brew. Most of you will know that brewing beer brings special aroma's. Also, due to the brewing process in combination with a limited amount of bottles I don't brew on a frequent basis.
-<!-- Gezien brouwen een "geur" met zich meebrengt, heb ik besloten tot ik een weekend alleen thuis was. Ik had ook nog wat materiaal nodig (een hydrometer + maatglas en een thermometer) en wou wachten of dit misschien onder de kerstboom zou liggen. Helaas. -->
-<!--  -->
-<!-- ## General Info -->
-<!-- * [general info](/page/generalinfo) -->
-<!--  -->
-<!-- ## Brews -->
-<!-- * [February 23rd 2019](/brew/190223) -->
-<!-- * [May 17th 2019](/brew/190517) -->

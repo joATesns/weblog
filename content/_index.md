@@ -1,11 +1,12 @@
 ---
 title: "127.0.0.1"
 date: 2019-06-06T14:09:43+02:00
+layout: single
 ---
 
 # A personal ABC² weblog
 
-#### Welcome !
+Welcome !
 
 
 ## This a hobby blog

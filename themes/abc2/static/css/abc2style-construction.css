@@ -7,11 +7,6 @@
   --header-height: 100px;
 }
 
-body {
-  color: var(--main-text-color);
-  background-color: var(--main-bg-color);
-  font-family: 'Titillium Web', sans-serif;
-}
 
 div#container {
   /* four main columns: header, navigation,  subcontainer, footer */
@@ -24,8 +19,6 @@ div#container {
 }
 
 div#main {
-  background-color: white;
-  color: red;
   flex: 1;
 }
 
@@ -85,12 +78,6 @@ div#navigation a:hover {
  */
 div#footer {
   width: 100%;
-  text-align: center;
-}
-
-div#footer a, a:hover, a:visited {
-  text-decoration: underline;
-  color: var(--main-text-color);
 }
 
 /*

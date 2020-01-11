@@ -1,8 +1,15 @@
 :root {
-  --main-text-color: white;
+  --main-text-color: orange;
   --main-bg-color: #101932;
   --highlight-text-color: orange;
   --highlight-bg-color: #202942;
+}
+
+body {
+  color: red;
+  background-color: var(--main-bg-color);
+  overflow-y: scroll;
+  font-family: 'Titillium Web', sans-serif;
 }
 
 /*
@@ -10,4 +17,32 @@
  */
 div#main {
   width: 100%;
+  background-color: white;
+  color: red;
+}
+
+div.content {
+  margin: 20px 100px;
+}
+
+div.content h1 {
+  margin: 5px 20px;
+}
+
+div.content h2, h3 {
+  margin: 5px 30px;
+}
+
+div.content p {
+  margin: 5px 40px;
+}
+
+div.content a, div.content a:visited {
+  text-decoration: none;
+  color: var(--main-text-color);
+}
+
+div#header a, div#header a:visited, div#footer a, div#footer a:hover, div#footer a:visited {
+  text-decoration: underline;
+  color: var(--main-text-color);
 }

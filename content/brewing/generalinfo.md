@@ -1,7 +1,7 @@
 ---
-title: "Generalinfo"
+title: "General Info"
 date: 2019-06-06T14:08:39+02:00
-
+type: "page"
 ---
 
 # Brouw log

@@ -5,4 +5,4 @@ draft: true
 weight: 4
 menu: "mainmenu"
 ---
-hello world !
+## How I've got into this ... Coding

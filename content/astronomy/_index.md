@@ -2,7 +2,6 @@
 title: "Astronomy"
 date: 2019-08-28T14:35:00+02:00
 showFullContent: true
-type: "posts"
 weight: 1
 menu: "mainmenu"
 ---
