@@ -3,9 +3,12 @@ languageCode = "en-us"
 baseURL = "https://jvliegen.github.io/weblog/"
 buildDrafts = true
 
-#theme = "abc2"
-theme = "terminal"
+theme = "abc2"
+#theme = "terminal"
+# theme = "hugo-theme-learn"
 publishDir = "docs"
+
+sectionPagesMenu = "main"
 
 
 [Author]
@@ -30,6 +33,7 @@ paginate = 3
   # set a custom favicon (default is a `themeColor` square)
   favicon = "favicon.ico"
   showFullContent = true
+  themeVariant = "abcc"
 
 [languages]
   [languages.en]
