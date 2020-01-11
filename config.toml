@@ -34,6 +34,7 @@ paginate = 3
   favicon = "favicon.ico"
   showFullContent = true
   themeVariant = "abcc"
+  title = "hello world"
 
 [languages]
   [languages.en]
