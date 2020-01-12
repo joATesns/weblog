@@ -7,7 +7,6 @@
   --header-height: 100px;
 }
 
-
 div#container {
   /* four main columns: header, navigation,  subcontainer, footer */
   display: flex;
@@ -67,6 +66,9 @@ div#navigation a {
   text-decoration: none;
   padding: 0 20px;
   color: var(--highlight-text-color);
+  font-size: 18pt;
+  font-weight: bold;
+  text-transform: uppercase;
 }
 
 div#navigation a:hover {
