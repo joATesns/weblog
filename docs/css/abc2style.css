@@ -1,0 +1,99 @@
+:root {
+  --main-text-color: black;
+  --main-bg-color: #101932;
+  --highlight-text-color: #d5dc00;
+  --highlight-bg-color: #FFFFFF7F;
+}
+
+body {
+  color: var(--main-text-color);
+  background-image: url("/weblog/images/bg/nightsky.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  overflow-y: scroll;
+  font-family: 'Space Mono', monospace;
+}
+
+div#header {
+  background-color: var(--highlight-bg-color);
+  margin-bottom: 10px;
+}
+
+div#header a, div#header a:visited, div#footer a, div#footer a:hover, div#footer a:visited {
+  text-decoration: underline;
+  color: var(--main-text-color);
+}
+
+div#footer {
+  background-color: var(--highlight-bg-color);
+  margin-top: 10px;
+  text-align: center;  
+}
+
+/*
+ * MAIN
+ */
+div#main {
+  width: 100%;
+  background-color: #FFFFFF7F;
+}
+
+div.content {
+  margin: 20px 100px;
+}
+
+div.content h1 {
+  margin: 5px 20px;
+}
+
+div.content h2, h3 {
+  margin: 5px 30px;
+}
+
+div.content p {
+  margin: 5px 40px;
+}
+
+div.content a, div.content a:visited {
+  text-decoration: none;
+  color: var(--main-text-color);
+}
+
+
+div.summary_container {
+  display: flex; 
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+
+div.summary {
+  background-color: var(--highlight-bg-color);
+  width: 40%;
+  padding: 10px 0px;
+}
+
+div.summary a, div.summary a:visited {
+  margin-left: 80px;
+  text-decoration: none;
+  color: var(--main-text-color);
+}
+
+div.summary a:hover {
+  margin-left: 80px;
+  text-decoration: none;
+  color: var(--highlight-text-color);
+}
+
+div.containerH {
+  display: flex;
+  flex-direction: row; /* in a single column */
+  justify-content: space-around;
+  align-items: flex-start; /* place the 3 main columns, centered */
+
+  flex-wrap: nowrap;
+  padding-top: 20px;
+}
+
+div.columnH {
+  flex: 1;
+}

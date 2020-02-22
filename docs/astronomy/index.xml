@@ -1,17 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Astronomies on A personal ABC² weblog</title>
+    <title>Astronomy on A personal ABC² weblog</title>
     <link>https://jvliegen.github.io/weblog/astronomy/</link>
-    <description>Recent content in Astronomies on A personal ABC² weblog</description>
+    <description>Recent content in Astronomy on A personal ABC² weblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</managingEditor>
     <webMaster>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</webMaster>
-    <lastBuildDate>Sat, 04 Jan 2020 08:14:19 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2019 14:35:00 +0200</lastBuildDate>
     
 	<atom:link href="https://jvliegen.github.io/weblog/astronomy/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>200115</title>
+      <link>https://jvliegen.github.io/weblog/astronomy/200115/</link>
+      <pubDate>Wed, 15 Jan 2020 23:21:24 +0100</pubDate>
+      <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
+      <guid>https://jvliegen.github.io/weblog/astronomy/200115/</guid>
+      <description>CONDITIONS  Time:  21:30 - 23:10  Location:  @ various  Temperature:  6.5 °C    .astronomy_metadata { display: flex; flex-direction: column; background-color: #1d212c; border: 1px dashed #23b0ff; justify-content: flex-start; } .row { display: flex; flex-direction: row; justify-content: center; } .heading { font-weight: bolder; color: #23b0ff; margin-right: 10px; } .label { font-weight: bold; color: #23b0ff; margin-right: 10px; } @media only screen and (min-width: 768px) { .</description>
+    </item>
     
     <item>
       <title>A little field trip</title>
@@ -57,7 +66,7 @@
       <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
       <guid>https://jvliegen.github.io/weblog/astronomy/191211/</guid>
       <description>Today I went to a Tycho meeting. Tycho is one of the three associations with the Cosmodrome in Genk. This work group focuses on observartion. The second Wednesday of every month they gater and observe the night&amp;rsquo;s sky (using the big telescope or personal gear) and/or discuss one topic.
-     Hans, but I might be mistaken, gave a presentation on ocular&#39;s a a Barlow lens.   After an intersting presentation and discussion we went up the big telscope and had a look.</description>
+    The logo of Tycho     Hans, but I might be mistaken, gave a presentation on ocular&#39;s a a Barlow lens.</description>
     </item>
     
     <item>
@@ -87,6 +96,16 @@ Two things sprung to mind: one (large) sea and two ray systems.</description>
       <guid>https://jvliegen.github.io/weblog/astronomy/general/</guid>
       <description>It&amp;rsquo;s all in the vocabulary    variable value     Kármán Line The edge between the Earth&amp;rsquo;s atmosphere and outer space, set at 100 km    It&amp;rsquo;s all in the numbers Here I want so summarise some numbers. Apparently some of those should be known by heart, but &amp;hellip; I prefer a small cheat sheet:
    variable value     the speed of light 3e+5 km/s   Astronomical Unit (AU)= d(earth, sun) 1.</description>
+    </item>
+    
+    <item>
+      <title>History of space flight</title>
+      <link>https://jvliegen.github.io/weblog/astronomy/historyofspaceflight/</link>
+      <pubDate>Sun, 08 Sep 2019 10:40:32 +0200</pubDate>
+      <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
+      <guid>https://jvliegen.github.io/weblog/astronomy/historyofspaceflight/</guid>
+      <description> History of space flight | Date | Name | Desc |-|-|-| | Oct 04 1957 | Sputnik 1 | First artificial earth satelite | | | Karman Line | The edge of space |
+Mercury program  crewless ocean landing suborbital with HAM (chimpansee)  Vostok program  spherical not intended to land, but pilot ejects  Definitions </description>
     </item>
     
     <item>
@@ -128,28 +147,6 @@ Two things sprung to mind: one (large) sea and two ray systems.</description>
       <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
       <guid>https://jvliegen.github.io/weblog/astronomy/190826/</guid>
       <description> I&amp;rsquo;ve spotted Jupiter and 2 of its moons. I&amp;rsquo;ve spotted Wega: main star of starsign: Lier  </description>
-    </item>
-    
-    <item>
-      <title>Area 52 Astronomy</title>
-      <link>https://jvliegen.github.io/weblog/astronomy/home/</link>
-      <pubDate>Wed, 28 Aug 2019 14:35:00 +0200</pubDate>
-      <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
-      <guid>https://jvliegen.github.io/weblog/astronomy/home/</guid>
-      <description>General Constellation Check List
-How I&amp;rsquo;ve got into this &amp;hellip; Astronomy Well, I can&amp;rsquo;t remember a time I was not into astronomy (and space-stuff). Although I never actively spend a huge amount of hours stargazing, I did look up occasionaly. For my 38th birthday, my spouse, kids and in laws bought me my first telescope.
-What happened after that, I summarised here.
-Enjoy &amp;hellip; and don&amp;rsquo;t forget to look up into the night&amp;rsquo;s sky for yourself.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jvliegen.github.io/weblog/astronomy/historyofspaceflight/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
-      <guid>https://jvliegen.github.io/weblog/astronomy/historyofspaceflight/</guid>
-      <description> History of space flight | Date | Name | Desc |-|-|-| | Oct 04 1957 | Sputnik 1 | First artificial earth satelite | | | Karman Line | The edge of space |
-Mercury program  crewless ocean landing suborbital with HAM (chimpansee)  Vostok program  spherical not intended to land, but pilot ejects  Definitions </description>
     </item>
     
   </channel>

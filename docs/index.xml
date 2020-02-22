@@ -14,6 +14,34 @@
     
     
     <item>
+      <title>Brewing steps</title>
+      <link>https://jvliegen.github.io/weblog/brewing/steps/</link>
+      <pubDate>Thu, 25 Jun 2020 20:08:39 +0200</pubDate>
+      <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
+      <guid>https://jvliegen.github.io/weblog/brewing/steps/</guid>
+      <description>Graan -&amp;gt; Mout Alles begint met graan. Er kunnen verschillende soorten graan gebruikt worden, maar de meest gebruikte graansoort is gerst (Hordeum vulgare). Gerst is een deel van de grassenfamilie en bestaat in 2 categegoriën: zomer- en wintergerst. Dit zijn respectievelijk 1- en 2-jarige sorrten.
+Als het graan (in dit geval gerst, dus) onkiemd en daarna gedroogd wordt, heet dit niet langer graan, maar mout. Ah ja, in het Engels is mout: malt.</description>
+    </item>
+    
+    <item>
+      <title>Batch 200125</title>
+      <link>https://jvliegen.github.io/weblog/brewing/200125/</link>
+      <pubDate>Sun, 26 Jan 2020 09:01:46 +0100</pubDate>
+      <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
+      <guid>https://jvliegen.github.io/weblog/brewing/200125/</guid>
+      <description>Brewing date: January 25th 2020 Ingrediënten  4l water voor het beslag 3l water voor het spoelen (op 80°C) 1200 gram mout Bavarienfest 100 gram Golding hop (.be) 100 gram suiker 3 gram korrelgist 100 ml lauw water  Recept  schroten maischen  20&amp;rsquo; op 53°C 10&amp;rsquo; verwarmen 45&amp;rsquo; op 62°C 15&amp;rsquo; verwarmen 10&amp;rsquo; op 72°C 10&amp;rsquo; verwarmen 5&amp;rsquo; op 78°C  filteren en spoelen koken  15&amp;rsquo; + HOP, + SUIKER 60&amp;rsquo;  afkoelen filteren en in de gistingsemmer opgeloste gist erbij gieten dichtheid meten (1055) waterslot lekker warm wegzetten (20°C)  Ponderings  Ik heb de dichtheid gemeten voor en na het toevoegen van de gist.</description>
+    </item>
+    
+    <item>
+      <title>200115</title>
+      <link>https://jvliegen.github.io/weblog/astronomy/200115/</link>
+      <pubDate>Wed, 15 Jan 2020 23:21:24 +0100</pubDate>
+      <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
+      <guid>https://jvliegen.github.io/weblog/astronomy/200115/</guid>
+      <description>CONDITIONS  Time:  21:30 - 23:10  Location:  @ various  Temperature:  6.5 °C    .astronomy_metadata { display: flex; flex-direction: column; background-color: #1d212c; border: 1px dashed #23b0ff; justify-content: flex-start; } .row { display: flex; flex-direction: row; justify-content: center; } .heading { font-weight: bolder; color: #23b0ff; margin-right: 10px; } .label { font-weight: bold; color: #23b0ff; margin-right: 10px; } @media only screen and (min-width: 768px) { .</description>
+    </item>
+    
+    <item>
       <title>A little field trip</title>
       <link>https://jvliegen.github.io/weblog/astronomy/200104/</link>
       <pubDate>Sat, 04 Jan 2020 08:14:19 +0100</pubDate>
@@ -57,7 +85,7 @@
       <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
       <guid>https://jvliegen.github.io/weblog/astronomy/191211/</guid>
       <description>Today I went to a Tycho meeting. Tycho is one of the three associations with the Cosmodrome in Genk. This work group focuses on observartion. The second Wednesday of every month they gater and observe the night&amp;rsquo;s sky (using the big telescope or personal gear) and/or discuss one topic.
-     Hans, but I might be mistaken, gave a presentation on ocular&#39;s a a Barlow lens.   After an intersting presentation and discussion we went up the big telscope and had a look.</description>
+    The logo of Tycho     Hans, but I might be mistaken, gave a presentation on ocular&#39;s a a Barlow lens.</description>
     </item>
     
     <item>
@@ -96,6 +124,16 @@ Two things sprung to mind: one (large) sea and two ray systems.</description>
       <guid>https://jvliegen.github.io/weblog/astronomy/general/</guid>
       <description>It&amp;rsquo;s all in the vocabulary    variable value     Kármán Line The edge between the Earth&amp;rsquo;s atmosphere and outer space, set at 100 km    It&amp;rsquo;s all in the numbers Here I want so summarise some numbers. Apparently some of those should be known by heart, but &amp;hellip; I prefer a small cheat sheet:
    variable value     the speed of light 3e+5 km/s   Astronomical Unit (AU)= d(earth, sun) 1.</description>
+    </item>
+    
+    <item>
+      <title>History of space flight</title>
+      <link>https://jvliegen.github.io/weblog/astronomy/historyofspaceflight/</link>
+      <pubDate>Sun, 08 Sep 2019 10:40:32 +0200</pubDate>
+      <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
+      <guid>https://jvliegen.github.io/weblog/astronomy/historyofspaceflight/</guid>
+      <description> History of space flight | Date | Name | Desc |-|-|-| | Oct 04 1957 | Sputnik 1 | First artificial earth satelite | | | Karman Line | The edge of space |
+Mercury program  crewless ocean landing suborbital with HAM (chimpansee)  Vostok program  spherical not intended to land, but pilot ejects  Definitions </description>
     </item>
     
     <item>
@@ -149,18 +187,6 @@ Two things sprung to mind: one (large) sea and two ray systems.</description>
     </item>
     
     <item>
-      <title>Area 52 Astronomy</title>
-      <link>https://jvliegen.github.io/weblog/astronomy/home/</link>
-      <pubDate>Wed, 28 Aug 2019 14:35:00 +0200</pubDate>
-      <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
-      <guid>https://jvliegen.github.io/weblog/astronomy/home/</guid>
-      <description>General Constellation Check List
-How I&amp;rsquo;ve got into this &amp;hellip; Astronomy Well, I can&amp;rsquo;t remember a time I was not into astronomy (and space-stuff). Although I never actively spend a huge amount of hours stargazing, I did look up occasionaly. For my 38th birthday, my spouse, kids and in laws bought me my first telescope.
-What happened after that, I summarised here.
-Enjoy &amp;hellip; and don&amp;rsquo;t forget to look up into the night&amp;rsquo;s sky for yourself.</description>
-    </item>
-    
-    <item>
       <title>&#39;t Soete Dal - Zutendaal</title>
       <link>https://jvliegen.github.io/weblog/camping/tsoetedal/</link>
       <pubDate>Sun, 09 Jun 2019 09:53:01 +0200</pubDate>
@@ -188,18 +214,6 @@ Enjoy &amp;hellip; and don&amp;rsquo;t forget to look up into the night&amp;rsqu
     </item>
     
     <item>
-      <title>Generalinfo</title>
-      <link>https://jvliegen.github.io/weblog/brewing/generalinfo/</link>
-      <pubDate>Thu, 06 Jun 2019 14:08:39 +0200</pubDate>
-      <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
-      <guid>https://jvliegen.github.io/weblog/brewing/generalinfo/</guid>
-      <description>Brouw log Brouw process Gerst (Hordeum vulgare): graansoort * deel van de grassenfamilie * zomer- en wintergerst: 1-jarige en 2-jarige respectievelijk
-Mouten: vorming van enzymen deze enzymen zetten zetmeel om in vergistbare suikers
-Het reinigen en sorteren van het graan. Hierbij worden stof, kaf, andere granen en onkruidzaden verwijderd met een wanmolen en een trijzel.
-Het weken van het graan. Hierbij wordt het met periodes onder water gezet zodat het vochtgehalte stijgt van 12 à 16 procent tot ongeveer 45 procent, koolzuur uit het graan ontsnapt en het graan wordt belucht.</description>
-    </item>
-    
-    <item>
       <title>Batch 190517</title>
       <link>https://jvliegen.github.io/weblog/brewing/190517/</link>
       <pubDate>Thu, 06 Jun 2019 14:08:18 +0200</pubDate>
@@ -217,16 +231,6 @@ Het weken van het graan. Hierbij wordt het met periodes onder water gezet zodat 
       <guid>https://jvliegen.github.io/weblog/brewing/190223/</guid>
       <description> Brewing date: February 23rd 2019 Zaterdagavond, 23 februari 2019, waren de kindjes logeren en Ellen een weekend weg &amp;hellip; ideaal. &amp;rsquo;s Morgens naar Brouwland gereden in Beverlo en het nodige materiaal gekocht, overdag kindjes halen en &amp;rsquo;s avond &amp;hellip; brouwen. !!
 Bottling date: March 9th 2019 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jvliegen.github.io/weblog/astronomy/historyofspaceflight/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
-      <guid>https://jvliegen.github.io/weblog/astronomy/historyofspaceflight/</guid>
-      <description> History of space flight | Date | Name | Desc |-|-|-| | Oct 04 1957 | Sputnik 1 | First artificial earth satelite | | | Karman Line | The edge of space |
-Mercury program  crewless ocean landing suborbital with HAM (chimpansee)  Vostok program  spherical not intended to land, but pilot ejects  Definitions </description>
     </item>
     
   </channel>

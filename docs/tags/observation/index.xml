@@ -8,10 +8,19 @@
     <language>en-us</language>
     <managingEditor>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</managingEditor>
     <webMaster>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</webMaster>
-    <lastBuildDate>Sat, 04 Jan 2020 08:14:19 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2020 23:21:24 +0100</lastBuildDate>
     
 	<atom:link href="https://jvliegen.github.io/weblog/tags/observation/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>200115</title>
+      <link>https://jvliegen.github.io/weblog/astronomy/200115/</link>
+      <pubDate>Wed, 15 Jan 2020 23:21:24 +0100</pubDate>
+      <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
+      <guid>https://jvliegen.github.io/weblog/astronomy/200115/</guid>
+      <description>CONDITIONS  Time:  21:30 - 23:10  Location:  @ various  Temperature:  6.5 °C    .astronomy_metadata { display: flex; flex-direction: column; background-color: #1d212c; border: 1px dashed #23b0ff; justify-content: flex-start; } .row { display: flex; flex-direction: row; justify-content: center; } .heading { font-weight: bolder; color: #23b0ff; margin-right: 10px; } .label { font-weight: bold; color: #23b0ff; margin-right: 10px; } @media only screen and (min-width: 768px) { .</description>
+    </item>
     
     <item>
       <title>A little field trip</title>
@@ -47,7 +56,7 @@
       <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
       <guid>https://jvliegen.github.io/weblog/astronomy/191211/</guid>
       <description>Today I went to a Tycho meeting. Tycho is one of the three associations with the Cosmodrome in Genk. This work group focuses on observartion. The second Wednesday of every month they gater and observe the night&amp;rsquo;s sky (using the big telescope or personal gear) and/or discuss one topic.
-     Hans, but I might be mistaken, gave a presentation on ocular&#39;s a a Barlow lens.   After an intersting presentation and discussion we went up the big telscope and had a look.</description>
+    The logo of Tycho     Hans, but I might be mistaken, gave a presentation on ocular&#39;s a a Barlow lens.</description>
     </item>
     
     <item>
