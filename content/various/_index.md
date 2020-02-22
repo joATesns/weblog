@@ -6,4 +6,5 @@ weight: 5
 type: "page"
 menu: "mainmenu"
 ---
-hello world !
+
+Various things that needed to be *online* but don't belong to any of the categories above.

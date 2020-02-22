@@ -83,3 +83,17 @@ div.summary a:hover {
   text-decoration: none;
   color: var(--highlight-text-color);
 }
+
+div.containerH {
+  display: flex;
+  flex-direction: row; /* in a single column */
+  justify-content: space-around;
+  align-items: flex-start; /* place the 3 main columns, centered */
+
+  flex-wrap: nowrap;
+  padding-top: 20px;
+}
+
+div.columnH {
+  flex: 1;
+}
