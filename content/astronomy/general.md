@@ -2,6 +2,7 @@
 title: "General"
 date: 2019-09-08T10:50:32+02:00
 draft: true
+type: "page"
 ---
 
 ## It's all in the vocabulary

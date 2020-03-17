@@ -3,9 +3,12 @@ languageCode = "en-us"
 baseURL = "https://jvliegen.github.io/weblog/"
 buildDrafts = true
 
-#theme = "abc2"
-theme = "terminal"
+theme = "abc2"
+# theme = "terminal"
+# theme = "hugo-theme-learn"
 publishDir = "docs"
+
+sectionPagesMenu = "main"
 
 
 [Author]
@@ -20,7 +23,7 @@ paginate = 3
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "blue"
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 4
+  showMenuItems = 5
   # show selector to switch language
   showLanguageSelector = false
   # set theme to full screen width
@@ -30,6 +33,8 @@ paginate = 3
   # set a custom favicon (default is a `themeColor` square)
   favicon = "favicon.ico"
   showFullContent = true
+  themeVariant = "abcc"
+  title = "hello world"
 
 [languages]
   [languages.en]
@@ -62,3 +67,7 @@ paginate = 3
         identifier = "coding"
         name = "Coding"
         url = "/coding"
+      [[languages.en.menu.main]]
+        identifier = "various"
+        name = "Various"
+        url = "/various"

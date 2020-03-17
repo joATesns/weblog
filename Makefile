@@ -5,7 +5,7 @@ SERVER_ARGS = -DF
 all:
 
 server:
-	-killall -q hugo
+	-killall -q hugo | true
 	$(HUGO) $(SERVER_ARGS) server
 
 publish:

@@ -1,6 +1,7 @@
 ---
 title: "Constellation check list"
 date: 2019-12-21T02:57:20+01:00
+type: "page"
 ---
 
 ## Constellations check list

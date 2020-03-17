@@ -1,7 +1,8 @@
 ---
 title: "Kerstlijst - 2019"
 date: 2019-11-20T07:28:00+01:00
-layout: "nakedhome"
+type: "post"
+draft: true
 ---
 
 ## Ellen

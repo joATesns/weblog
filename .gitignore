@@ -1,5 +1,11 @@
 *sublime*
 
 **/*.zip
+<<<<<<< HEAD
 themes/hugo-theme-learn/*
-abc2*
+# abc2*
+=======
+
+themes/terminal/*
+themes/hugo-theme-learn/*
+>>>>>>> abc2theme

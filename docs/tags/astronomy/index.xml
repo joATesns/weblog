@@ -8,10 +8,37 @@
     <language>en-us</language>
     <managingEditor>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</managingEditor>
     <webMaster>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</webMaster>
-    <lastBuildDate>Sat, 04 Jan 2020 08:14:19 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2020 05:40:00 +0100</lastBuildDate>
     
 	<atom:link href="https://jvliegen.github.io/weblog/tags/astronomy/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>200314</title>
+      <link>https://jvliegen.github.io/weblog/astronomy/200314/</link>
+      <pubDate>Sat, 14 Mar 2020 05:40:00 +0100</pubDate>
+      <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
+      <guid>https://jvliegen.github.io/weblog/astronomy/200314/</guid>
+      <description>CONDITIONS  Time:  05:40 - 06:00  Location:  @ home  Temperature:  10 °C    .astronomy_metadata { display: flex; flex-direction: column; background-color: #1d212c; border: 1px dashed #23b0ff; justify-content: flex-start; } .row { display: flex; flex-direction: row; justify-content: center; } .heading { font-weight: bolder; color: #23b0ff; margin-right: 10px; } .label { font-weight: bold; color: #23b0ff; margin-right: 10px; } @media only screen and (min-width: 768px) { .</description>
+    </item>
+    
+    <item>
+      <title>Tycho - Astro Sketching</title>
+      <link>https://jvliegen.github.io/weblog/astronomy/200311/</link>
+      <pubDate>Wed, 11 Mar 2020 19:30:00 +0100</pubDate>
+      <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
+      <guid>https://jvliegen.github.io/weblog/astronomy/200311/</guid>
+      <description>Spotted through Telescope:  Nothing due to weather  Observation(s) Today I was finally able to make it to another Tycho gathering. The previous 2 I had to skip due to: illness and being abroad for work. Because the weather was very bad, as was predicted, they provided an alternative program. A member of Urania (Jef De Wit) gave a presentation on Astro Sketching. With no expectations I went in &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>200115</title>
+      <link>https://jvliegen.github.io/weblog/astronomy/200115/</link>
+      <pubDate>Wed, 15 Jan 2020 23:21:24 +0100</pubDate>
+      <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
+      <guid>https://jvliegen.github.io/weblog/astronomy/200115/</guid>
+      <description>CONDITIONS  Time:  21:30 - 23:10  Location:  @ various  Temperature:  6.5 °C    .astronomy_metadata { display: flex; flex-direction: column; background-color: #1d212c; border: 1px dashed #23b0ff; justify-content: flex-start; } .row { display: flex; flex-direction: row; justify-content: center; } .heading { font-weight: bolder; color: #23b0ff; margin-right: 10px; } .label { font-weight: bold; color: #23b0ff; margin-right: 10px; } @media only screen and (min-width: 768px) { .</description>
+    </item>
     
     <item>
       <title>A little field trip</title>

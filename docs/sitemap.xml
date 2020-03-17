@@ -3,27 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jvliegen.github.io/weblog/astronomy/200104/</loc>
-    <lastmod>2020-01-04T08:14:19+01:00</lastmod>
+    <loc>https://jvliegen.github.io/weblog/astronomy/</loc>
+    <lastmod>2019-08-28T14:35:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jvliegen.github.io/weblog/astronomy/</loc>
-    <lastmod>2020-01-04T08:14:19+01:00</lastmod>
+    <loc>https://jvliegen.github.io/weblog/brewing/</loc>
+    <lastmod>2019-06-06T14:09:43+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jvliegen.github.io/weblog/camping/</loc>
+    <lastmod>2019-06-09T09:32:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jvliegen.github.io/weblog/coding/</loc>
+    <lastmod>2019-06-09T09:32:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jvliegen.github.io/weblog/various/</loc>
+    <lastmod>2019-06-09T09:32:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jvliegen.github.io/weblog/astronomy/200314/</loc>
+    <lastmod>2020-03-14T05:40:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://jvliegen.github.io/weblog/tags/astronomy/</loc>
-    <lastmod>2020-01-04T08:14:19+01:00</lastmod>
+    <lastmod>2020-03-14T05:40:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://jvliegen.github.io/weblog/tags/observation/</loc>
-    <lastmod>2020-01-04T08:14:19+01:00</lastmod>
+    <lastmod>2020-03-14T05:40:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://jvliegen.github.io/weblog/tags/</loc>
+    <lastmod>2020-03-14T05:40:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jvliegen.github.io/weblog/astronomy/200311/</loc>
+    <lastmod>2020-03-11T19:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jvliegen.github.io/weblog/brewing/200125/</loc>
+    <lastmod>2020-01-26T09:01:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jvliegen.github.io/weblog/astronomy/200115/</loc>
+    <lastmod>2020-01-15T23:21:24+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jvliegen.github.io/weblog/astronomy/200104/</loc>
     <lastmod>2020-01-04T08:14:19+01:00</lastmod>
   </url>
   
@@ -58,11 +98,6 @@
   </url>
   
   <url>
-    <loc>https://jvliegen.github.io/weblog/various/</loc>
-    <lastmod>2019-11-20T07:28:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jvliegen.github.io/weblog/astronomy/191117/</loc>
     <lastmod>2019-11-17T03:38:18+01:00</lastmod>
   </url>
@@ -75,6 +110,11 @@
   <url>
     <loc>https://jvliegen.github.io/weblog/astronomy/general/</loc>
     <lastmod>2019-09-08T10:50:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jvliegen.github.io/weblog/astronomy/historyofspaceflight/</loc>
+    <lastmod>2019-09-08T10:40:32+02:00</lastmod>
   </url>
   
   <url>
@@ -108,11 +148,6 @@
   </url>
   
   <url>
-    <loc>https://jvliegen.github.io/weblog/astronomy/home/</loc>
-    <lastmod>2019-08-28T14:35:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jvliegen.github.io/weblog/camping/tsoetedal/</loc>
     <lastmod>2019-06-09T09:53:01+02:00</lastmod>
   </url>
@@ -120,16 +155,6 @@
   <url>
     <loc>https://jvliegen.github.io/weblog/camping/lesjonquilles/</loc>
     <lastmod>2019-06-09T09:51:08+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jvliegen.github.io/weblog/camping/</loc>
-    <lastmod>2019-06-09T09:32:25+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jvliegen.github.io/weblog/coding/</loc>
-    <lastmod>2019-06-09T09:32:25+02:00</lastmod>
   </url>
   
   <url>
@@ -143,16 +168,6 @@
   </url>
   
   <url>
-    <loc>https://jvliegen.github.io/weblog/brewing/</loc>
-    <lastmod>2019-06-06T14:09:43+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jvliegen.github.io/weblog/brewing/generalinfo/</loc>
-    <lastmod>2019-06-06T14:08:39+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jvliegen.github.io/weblog/brewing/190517/</loc>
     <lastmod>2019-06-06T14:08:18+02:00</lastmod>
   </url>
@@ -160,11 +175,6 @@
   <url>
     <loc>https://jvliegen.github.io/weblog/brewing/190223/</loc>
     <lastmod>2019-06-06T14:07:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jvliegen.github.io/weblog/astronomy/historyofspaceflight/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
