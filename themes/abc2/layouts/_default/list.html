@@ -9,7 +9,7 @@
       <h3>Most recent posts</h3>
       {{ range where .Pages "Type" "post" }}
         <div class="postlink">
-          <a href="{{ .URL }}" title="{{ .Title }}">
+          <a href="{{ .Permalink }}" title="{{ .Title }}">
             <i class="far fa-sticky-note"></i> {{ .PublishDate.Format "02 Jan 2006" }} - {{ .Name }}
           </a>
         </div>
@@ -20,7 +20,7 @@
       <h3>Most recent pages</h3>
       {{ range where .Pages "Type" "page" }}
         <div class="pagelink">
-          <a href="{{ .URL }}" title="{{ .Title }}">
+          <a href="{{ .Permalink }}" title="{{ .Title }}">
             <i class="far fa-newspaper"></i> {{ .PublishDate.Format "02 Jan 2006" }} - {{ .Name }}
           </a>
         </div>
