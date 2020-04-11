@@ -1,11 +1,12 @@
+# no editor-related files
 *sublime*
 
+# no archives
 **/*.zip
-<<<<<<< HEAD
-themes/hugo-theme-learn/*
-# abc2*
-=======
 
+# no themes of 3rd parties
 themes/terminal/*
 themes/hugo-theme-learn/*
->>>>>>> abc2theme
+
+# all nvc (no-version-control) folders
+**/nvc/

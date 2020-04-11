@@ -6,14 +6,16 @@
   <body>
     <div id="container">
       <div id="header">
-        {{ partial "construction/header.html" .}}
-      </div>
-      <div id="navigation">
+        <div id="logo">
+          {{ partial "construction/header.html" .}}
+        </div>
+        <div id="navigation">
         <!--
           To make the **context** available IN the partial
           the dot has to be added 
         -->
         {{ partial "construction/navigation.html" .}}
+        </div>
       </div>
       <div id="main">
         {{ block "main" . }}

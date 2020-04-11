@@ -7,4 +7,5 @@ type: "page"
 menu: "mainmenu"
 ---
 
+# Misc
 Various things that needed to be *online* but don't belong to any of the categories above.
