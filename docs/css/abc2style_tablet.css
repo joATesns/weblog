@@ -16,6 +16,15 @@ body {
   font-size: 18px;
 }
 
+div#container {
+  /* three main columns: header, subcontainer, footer */
+  display: flex;
+  flex-direction: column; /* in a single column */
+  /*justify-content: space-between; */
+  align-items: center; /* place the 3 main columns, centered */
+
+  margin: 0 10%;
+}
 
 /* clear all markup on links */
 a, a:visited {
@@ -28,6 +37,10 @@ a, a:visited {
  * MAIN
  */
 div#main {
+
+  width: 100%;
+  flex: 1;
+
   background-color: var(--highlight-bg-color);
   padding-top: 20px;
 
@@ -38,8 +51,8 @@ div#main {
 }
 
 div.content {
-  margin: 20px 100px;
-  width: 80%;
+  margin: 20px 10%;
+  width: 90%;
 }
 
 div.content h1, h2, h3, h4 {
@@ -47,10 +60,10 @@ div.content h1, h2, h3, h4 {
 }
 
 div.content h1 {
-  margin-left: 100px;
+  margin-left: 10%;
 }
 div.content h2 {
-  margin-left: 120px;
+  margin-left: 20%;
 }
 
 div.content p {
@@ -138,7 +151,7 @@ div#navigation {
   margin: 0px 20px;
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: flex-end;
   align-items: center;
   width: 100%;
 }
@@ -166,11 +179,16 @@ div#navigation a:focus{
   outline: none;  /* no box when clicking */
 }
 
+div#hamburger_icon {
+  margin-right: 20px;
+}
 
 /*
  * FOOTER
  */
 div#footer {
+  width: 100%;
+
   background-color: var(--highlight-bg-color);
   margin-top: 20px;
   text-align: center;
@@ -187,4 +205,37 @@ div#footer {
   -moz-border-radius-bottomright: 20px;
   border-bottom-left-radius: 20px;
   border-bottom-right-radius: 20px;
+}
+
+/*
+ * HEADER
+ */
+div#header {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: stretch;
+
+  width: 100%;
+
+  background-color: var(--highlight-bg-color);
+  height: 200px;
+  margin-bottom: 20px;
+
+  /* rounded borders on the top*/
+  -webkit-border-top-left-radius: 20px;
+  -webkit-border-top-right-radius: 20px;
+  -moz-border-radius-topleft: 20px;
+  -moz-border-radius-topright: 20px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+div.nonMobileOnly {
+  display: none;
+}
+
+div.mobileOnly {
+  display: block;
 }
