@@ -51,8 +51,8 @@ div#main {
 }
 
 div.content {
-  margin: 20px 100px;
-  width: 80%;
+  margin: 20px 10%;
+  width: 90%;
 }
 
 div.content h1, h2, h3, h4 {
@@ -60,10 +60,10 @@ div.content h1, h2, h3, h4 {
 }
 
 div.content h1 {
-  margin-left: 100px;
+  margin-left: 10%;
 }
 div.content h2 {
-  margin-left: 120px;
+  margin-left: 20%;
 }
 
 div.content p {
@@ -151,7 +151,7 @@ div#navigation {
   margin: 0px 20px;
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: flex-end;
   align-items: center;
   width: 100%;
 }
@@ -179,6 +179,9 @@ div#navigation a:focus{
   outline: none;  /* no box when clicking */
 }
 
+div#hamburger_icon {
+  margin-right: 20px;
+}
 
 /*
  * FOOTER
@@ -229,4 +232,10 @@ div#header {
   border-top-right-radius: 20px;
 }
 
+div.nonMobileOnly {
+  display: none;
+}
 
+div.mobileOnly {
+  display: block;
+}
