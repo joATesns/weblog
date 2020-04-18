@@ -3,7 +3,7 @@ title: "Brewing"
 date: 2019-06-06T14:09:43+02:00
 draft: true
 type: "page"
-weight: 2
+weight: 3
 menu: "mainmenu"
 ---
 

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>127.0.0.1 on A personal ABC² weblog</title>
+    <title>127.0.0.1 on A personal AB²C² weblog</title>
     <link>https://jvliegen.github.io/weblog/</link>
-    <description>Recent content in 127.0.0.1 on A personal ABC² weblog</description>
+    <description>Recent content in 127.0.0.1 on A personal AB²C² weblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</managingEditor>
@@ -12,6 +12,26 @@
     
 	<atom:link href="https://jvliegen.github.io/weblog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>First bake ... first mistake</title>
+      <link>https://jvliegen.github.io/weblog/baking/200418/</link>
+      <pubDate>Sat, 18 Apr 2020 09:32:26 +0200</pubDate>
+      <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
+      <guid>https://jvliegen.github.io/weblog/baking/200418/</guid>
+      <description> A first post &amp;hellip; a first mistake </description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s start with a starter</title>
+      <link>https://jvliegen.github.io/weblog/baking/200404/</link>
+      <pubDate>Sat, 04 Apr 2020 09:36:06 +0200</pubDate>
+      <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
+      <guid>https://jvliegen.github.io/weblog/baking/200404/</guid>
+      <description>Let&amp;rsquo;s start with a starter Saturday, April 4th 2020 This is written during the Corona crisis. Probably I should add a wikipedia link later (as if that&amp;rsquo;s going to happen). Because we have to stay home #blijfinuwkot I thought it was a good idea to make a sourdough starter.
+With some browsing on the Internet and my personal advisor I got started.
+ A starting starter - day 0  After a call with my personal coach he pointed out that &amp;ldquo;00&amp;rdquo; (dopio zero) flour might not be ideal.</description>
+    </item>
     
     <item>
       <title>200314</title>
@@ -37,7 +57,7 @@
       <pubDate>Sun, 26 Jan 2020 09:01:46 +0100</pubDate>
       <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
       <guid>https://jvliegen.github.io/weblog/brewing/200125/</guid>
-      <description>Brewing date: January 25th 2020 Ingrediënten  4l water voor het beslag 3l water voor het spoelen (op 80°C) 1200 gram mout Bavarienfest 100 gram Golding hop (.be) 100 gram suiker 3 gram korrelgist 100 ml lauw water  Recept  schroten maischen  20&amp;rsquo; op 53°C 10&amp;rsquo; verwarmen 45&amp;rsquo; op 62°C 15&amp;rsquo; verwarmen 10&amp;rsquo; op 72°C 10&amp;rsquo; verwarmen 5&amp;rsquo; op 78°C  filteren en spoelen koken  15&amp;rsquo; + HOP, + SUIKER 60&amp;rsquo;  afkoelen filteren en in de gistingsemmer opgeloste gist erbij gieten dichtheid meten (1055) waterslot lekker warm wegzetten (20°C)  Ponderings  Ik heb de dichtheid gemeten voor en na het toevoegen van de gist.</description>
+      <description>CONDITIONS  hello Time:  01/25/20    .brewage_metadata { display: flex; flex-direction: column; background-color: #1d212c; border: 1px dashed #23b0ff; justify-content: flex-start; } .row { display: flex; flex-direction: row; justify-content: center; } .heading { font-weight: bolder; color: #23b0ff; margin-right: 10px; } .label { font-weight: bold; color: #23b0ff; margin-right: 10px; } @media only screen and (min-width: 768px) { .astronomy_metadata { display: flex; flex-direction: row; justify-content: space-around; } }  Batch 200125 Ingrediënten  4l water voor het beslag 3l water voor het spoelen (op 80°C) 1200 gram mout Bavarienfest 100 gram Golding hop (.</description>
     </item>
     
     <item>
@@ -93,7 +113,7 @@
       <author>&lt;i&gt;fname&lt;/i&gt;.&lt;i&gt;lname&lt;/i&gt;A T&lt;i&gt;gmail.com&lt;/i&gt; (Jo Vliegen)</author>
       <guid>https://jvliegen.github.io/weblog/astronomy/191211/</guid>
       <description>Today I went to a Tycho meeting. Tycho is one of the three associations with the Cosmodrome in Genk. This work group focuses on observartion. The second Wednesday of every month they gater and observe the night&amp;rsquo;s sky (using the big telescope or personal gear) and/or discuss one topic.
-    The logo of Tycho     Hans, but I might be mistaken, gave a presentation on ocular&#39;s a a Barlow lens.</description>
+   The logo of Tycho    Hans, but I might be mistaken, gave a presentation on ocular&#39;s a a Barlow lens.</description>
     </item>
     
     <item>

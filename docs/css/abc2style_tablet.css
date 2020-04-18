@@ -60,10 +60,10 @@ div.content h1, h2, h3, h4 {
 }
 
 div.content h1 {
-  margin-left: 10%;
+  margin-left: 5%;
 }
 div.content h2 {
-  margin-left: 20%;
+  margin-left: 10%;
 }
 
 div.content p {
@@ -73,13 +73,9 @@ div.content p {
   margin-bottom: 20px;
 }
 
-div.content ul {
+div.content ul, div.content ol {
   margin-left: 160px;
 }
-
-
-
-
 
 div.content a, div.content a:visited {
   text-decoration: none;

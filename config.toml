@@ -39,7 +39,7 @@ paginate = 3
 [languages]
   [languages.en]
     languageName = "English"
-    title = "A personal ABC² weblog"
+    title = "A personal AB²C² weblog"
     keywords = ""
     copyright = ""
     # menuMore = "Show more"
