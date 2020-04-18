@@ -7,14 +7,10 @@ menu: "mainmenu"
 ---
 
 # How I've got into this ... Baking
-It's all the fault of my (younger) brother (and his girlfriend). For my 37th birthday they gave me a [starter kit](https://www.brouwbroeders.nl/products/starterspakket-belgisch-blond) for home brewing as a present.
+Although I always enjoyed eating bread, I never bothered too much about baking my own. There has been a time, before I had kids, I owned a bread-baking machine. However, this was more from a point of convenience. The only dough-experience I had, was making pizza dough. But that happens very rarely.
 
-Being born and raised in Belgium, I know one thing about beer (other than it's **HEAVEN**): brewing beer doesn't create the best of odors. So ... it took me while before I was home alone and had a perfect opportunity to start brewing.
+A colleague at work, [Wouter](https://github.com/wgroeneveld), is a sourdough fanatic. Probably he's objecting to my choice of words, but ... c'mon ... if you write a [book](https://www.bol.com/nl/p/red-zuurdesem/9300000000815597/?referrer=socialshare_pdp_www) about it, it can't be denied.
 
-What happened after that, I summarised here.
+With me telling stories about brewing, he started telling stories about baking. As we both rely on yeast, it made for nice discussions. So ... I'll try it.
 
-Enjoy ... and don't forget to share a drink.
-
-
-Oh, and as they typically state in .be: _Beer, brewed with love, you drink responsibly !!_
-
+Bon Appétit !!
