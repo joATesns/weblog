@@ -48,4 +48,4 @@ De moutkorrels zijn redelijk hard. Om het wat gemakkelijker te maken om het wate
 
 Het kaf moet heel blijven.
 
-{{<figure position="center" src="/weblog/images/brewing_steps/schroten.jpg" title="Schroten van mout" width="25%">}}
+{{<figure position="center" src="/images/brewing_steps/schroten.jpg" title="Schroten van mout" width="25%">}}

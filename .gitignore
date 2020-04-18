@@ -10,3 +10,5 @@ themes/hugo-theme-learn/*
 
 # all nvc (no-version-control) folders
 **/nvc/
+
+public*

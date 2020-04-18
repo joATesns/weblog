@@ -1,12 +1,12 @@
 languageCode = "en-us"
 
-baseURL = "https://jvliegen.github.io/weblog/"
+baseURL = "https://www.jkl52.be"
 buildDrafts = true
 
 theme = "abc2"
 # theme = "terminal"
 # theme = "hugo-theme-learn"
-publishDir = "docs"
+
 
 sectionPagesMenu = "main"
 
@@ -46,9 +46,9 @@ paginate = 3
     # readMore = "Read more"
     # readOtherPosts = "Read other posts"
 
-    [languages.en.params.logo]
-      logoText = "A personal ABC² weblog"
-      logoHomeLink = "https://jvliegen.github.io/weblog/"
+    # [languages.en.params.logo]
+    #   logoText = "A personal AB²C² weblog"
+    #   logoHomeLink = "/"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
