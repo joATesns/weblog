@@ -9,7 +9,4 @@ server:
 	$(HUGO) $(SERVER_ARGS) server
 
 publish:
-	$(HUGO)
-	git add -u .
-	git commit -m "publish - `date`"
-	git push
+	/home/jvliegen/bin/./pushweblog.sh
