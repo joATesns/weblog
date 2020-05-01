@@ -67,14 +67,13 @@ div.content h2 {
 }
 
 div.content p {
-  margin-left: 140px;
-  margin-right: 140px;
   text-align: justify;
   margin-bottom: 20px;
+  color: blue;
 }
 
 div.content ul, div.content ol {
-  margin-left: 160px;
+  margin-left: 20px;
 }
 
 div.content a, div.content a:visited {
@@ -118,7 +117,7 @@ div.summary a:hover {
 
 div.containerH {
   display: flex;
-  flex-direction: row; /* in a single column */
+  flex-direction: column; /* in a single column */
   justify-content: space-around;
   align-items: flex-start; /* place the 3 main columns, centered */
 
@@ -143,34 +142,29 @@ div.column {
  * HEADER
  */
 
-/* LOGO */
-div#logo {
-  margin-left: 20px;
-}
-
 /* NAVIGATION */
 div#navigation {
   margin: 0px 20px;
   display: flex;
-  flex-direction: row;
-  justify-content: flex-end;
-  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
   width: 100%;
 }
 
 div#navigation div.menuitem {
   flex: 1;
   text-align: center;
-  line-height: 180px;
+  line-height: 34px;
 }
 
 div#navigation a {
   display: block;
   text-decoration: none;
   padding: 0 20px;
-  font-size: 18pt;
+  font-size: 14pt;
   font-weight: bold;
   text-transform: uppercase;
+  color: orange;
 }
 
 div#navigation a:hover {
@@ -214,15 +208,15 @@ div#footer {
  */
 div#header {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   flex-wrap: nowrap;
   justify-content: flex-start;
-  align-items: stretch;
+  align-items: center;
 
   width: 100%;
 
   background-color: var(--highlight-bg-color);
-  height: 200px;
+  height: 400px;
   margin-bottom: 20px;
 
   /* rounded borders on the top*/

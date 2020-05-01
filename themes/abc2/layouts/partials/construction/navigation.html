@@ -8,6 +8,11 @@
   </div>
 {{ end }}
 
-<div class="mobileOnly" id="hamburger_icon">
-  <img src="/images/hamburger_menu.svg"/>
-</div>
+
+{{ range .Site.Menus.mainmenu }}
+  <div class="menuitem mobileOnly">
+    <a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">
+      {{ .Name }}
+    </a>
+  </div>
+{{ end }}
