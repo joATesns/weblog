@@ -64,6 +64,7 @@ div.content h1 {
 }
 div.content h2 {
   margin-left: 120px;
+  font-size: 16pt;
 }
 
 div.content p {
@@ -71,6 +72,7 @@ div.content p {
   margin-right: 140px;
   text-align: justify;
   margin-bottom: 20px;
+  font-size: 12pt;
 }
 
 div.content ul, ol {
@@ -81,6 +83,9 @@ div.content ol ul {
   margin-left: 20px;
 }
 
+div.content li {
+  font-size: 12pt;
+}
 
 
 
@@ -127,7 +132,7 @@ div.containerH {
   display: flex;
   flex-direction: row; /* in a single column */
   justify-content: space-around;
-  align-items: flex-start; /* place the 3 main columns, centered */
+  align-items: stretch;
 
   flex-wrap: nowrap;
   padding-top: 20px;
@@ -137,11 +142,15 @@ div.columnH {
   flex: 1;
 }
 
+div.columnH figure img {
+  width: 100%;
+}
+
 figure img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 65%;
 }
 
 figcaption {
