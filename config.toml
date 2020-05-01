@@ -14,7 +14,9 @@ sectionPagesMenu = "main"
 [Author]
   name = "Jo Vliegen"
   email = "<i>fname</i>.<i>lname</i>A T<i>gmail.com</i>"
- 
+
+[markup.goldmark.renderer]
+  unsafe= true
 
 paginate = 3
 [params]
