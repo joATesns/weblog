@@ -1,5 +1,5 @@
 
-HUGO = /usr/local/bin/hugo
+HUGO = /usr/bin/hugo
 SERVER_ARGS = -DF
 
 all:
