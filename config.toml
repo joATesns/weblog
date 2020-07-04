@@ -3,10 +3,10 @@ languageCode = "en-us"
 baseURL = "https://www.jkl52.be"
 buildDrafts = true
 
-theme = "abc2"
-# theme = "terminal"
-# theme = "hugo-theme-learn"
+#theme = "abc2"
+theme = "hugo-theme-learn"
 
+publishDir = "docs"
 
 sectionPagesMenu = "main"
 

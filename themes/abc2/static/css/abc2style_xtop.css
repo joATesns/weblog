@@ -153,6 +153,13 @@ figure img {
   width: 65%;
 }
 
+iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+}
+
 figcaption {
   text-align: center;
   font-style: italic;

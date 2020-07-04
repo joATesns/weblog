@@ -4,12 +4,17 @@ date: 2020-06-25T20:08:39+02:00
 type: "page"
 ---
 
-# Graan -> Mout
-Alles begint met graan. Er kunnen verschillende soorten graan gebruikt worden, maar de meest gebruikte graansoort is **gerst (Hordeum vulgare)**. Gerst is een deel van de grassenfamilie en bestaat in 2 categegoriën: zomer- en wintergerst. Dit zijn respectievelijk 1- en 2-jarige sorrten.
 
-Als het graan (in dit geval gerst, dus) onkiemd en daarna gedroogd wordt, heet dit niet langer graan, maar **mout**. Ah ja, in het Engels is mout: **malt**. Dit klinkt misschien bekender voor de whisk(e)y-liefhebber.
+# Graan -> Mout
+Alles begint met graan. Er kunnen verschillende soorten graan gebruikt worden, maar de meest gebruikte graansoort is **gerst (Hordeum vulgare)**. Gerst is een deel van de grassenfamilie en bestaat in 2 categegoriën: zomer- en wintergerst. Dit zijn respectievelijk 1- en 2-jarige soorten.
+
+Als het graan (in dit geval gerst, dus) onkiemd is en daarna gedroogd wordt, heet dit niet langer graan, maar **mout**. Ah ja, in het Engels is mout: **malt**. Dit klinkt misschien bekender voor de whisk(e)y-liefhebber.
+
+
 
 De reden van het mouten is de vorming van enzymen. Deze enzymen zetten het zetmeel om in vergistbare suikers.
+
+Bij gerst is het kaf (=verzamelnaam voor de kelk- en kroonkafjes) vergroeid met de graankorrel. 
 
 ## Weken van het graan
 Voor deze omzetting wordt het graan onder water gezet zodat het vochtgehalte stijgt van 12 à 16 procent tot ongeveer 45 procent. Hierbij ontsnapt ook het koolzuur uit het graan en wordt het graan wordt belucht. Dit duurt 24 tot 48 uur. Door deze bewerkingen ontstaat **kiemgoed**. Omdat de gerst moet ademen, kan deze niet simpelweg onder water worden gezet. Het weken gebeurt dus meestal door het geregeld natsproeien van de gerst.

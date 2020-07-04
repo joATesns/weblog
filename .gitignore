@@ -6,9 +6,12 @@
 
 # no themes of 3rd parties
 themes/terminal/*
-themes/hugo-theme-learn/*
+themes/hugo-theme-learn*
 
 # all nvc (no-version-control) folders
 **/nvc/
 
 public*
+
+.DS_Store
+
