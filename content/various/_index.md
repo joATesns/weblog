@@ -1,10 +1,11 @@
 ---
 title: "Various"
 date: 2019-06-09T09:32:25+02:00
-draft: true
 weight: 6
 type: "page"
 menu: "mainmenu"
+# Hide a menu entry by setting this to true
+hidden: true
 ---
 
 # Misc

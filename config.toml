@@ -1,7 +1,7 @@
 languageCode = "en-us"
 
 baseURL = "https://www.jkl52.be"
-buildDrafts = true
+#buildDrafts = true
 
 #theme = "abc2"
 theme = "hugo-theme-learn"
@@ -23,7 +23,7 @@ paginate = 3
   # dir name of your blog content (default is `content/posts`)
   contentTypeName = "posts"
   # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "blue"
+  themeVariant = "green"
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 5
   # show selector to switch language
@@ -34,9 +34,9 @@ paginate = 3
   centerTheme = false
   # set a custom favicon (default is a `themeColor` square)
   favicon = "favicon.ico"
+  themeColor = "squere"
   showFullContent = true
-  themeVariant = "abcc"
-  title = "hello world"
+
 
 [languages]
   [languages.en]

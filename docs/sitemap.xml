@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.jkl52.be/baking/</loc>
-    <lastmod>2020-04-18T09:27:43+02:00</lastmod>
+    <loc>https://www.jkl52.be/astronomy/</loc>
+    <lastmod>2019-08-28T14:35:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.jkl52.be/astronomy/</loc>
-    <lastmod>2019-08-28T14:35:00+02:00</lastmod>
+    <loc>https://www.jkl52.be/baking/</loc>
+    <lastmod>2020-04-18T09:27:43+02:00</lastmod>
   </url>
   
   <url>
@@ -30,6 +30,11 @@
   <url>
     <loc>https://www.jkl52.be/various/</loc>
     <lastmod>2019-06-09T09:32:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jkl52.be/brewing/batches/</loc>
+    <lastmod>2020-07-04T17:58:46+01:00</lastmod>
   </url>
   
   <url>

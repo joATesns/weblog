@@ -1,5 +1,6 @@
 ---
-title: "Camping"
+title: "How I've got into this ... Camping"
+menuTitle: "Camping"
 date: 2019-06-09T09:32:25+02:00
 draft: true
 weight: 4
@@ -7,7 +8,6 @@ menu: "mainmenu"
 type: "page"
 ---
 
-# How I've got into this ... Camping
 I simply like doing this. What could be wrong with hanging around, relax mode on, having a bear and some almost-well-done comfort food ? There might a number of indirect reasons for this, but these are merely weak pointers at best.
 
 * it's a 100% "Come as you are"-thing
