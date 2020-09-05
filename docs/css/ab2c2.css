@@ -15,6 +15,32 @@ div.containerH {
 }
 
 div.columnH {
-/*  flex: 1;*/
-  width: 45%;
+  width: 48%;
+  background-color: #F6F6F6 ;
+}
+
+/* enumberations */
+div.columnH.brew ul li {
+  padding-left: 0%;
+  margin-left: 5%;
+}
+
+/* nested enumberations */
+div.columnH.brew ul li ul li {
+  padding-left: 0%;
+  margin-left: 0%;
+}
+
+div.columnH.brew h3 {
+  color: var(--MENU-HEADER-BG-color) !important;
+  text-align: center;
+}
+
+
+
+table#bakerslog th {
+  background-color: #F6F6F6;
+  color: var(--MAIN-LINK-color);
+  text-transform: capitalize;
+  font-weight: bold;
 }
