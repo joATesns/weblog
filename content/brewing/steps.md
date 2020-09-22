@@ -5,7 +5,6 @@ type: "page"
 weight: 7
 ---
 
-
 # Graan -> Mout
 Alles begint met graan. Er kunnen verschillende soorten graan gebruikt worden, maar de meest gebruikte graansoort is **gerst (Hordeum vulgare)**. Gerst is een deel van de grassenfamilie en bestaat in 2 categegoriën: zomer- en wintergerst. Dit zijn respectievelijk 1- en 2-jarige soorten.
 
