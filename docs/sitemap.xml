@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.jkl52.be/brewing/batches/</loc>
+    <lastmod>2020-07-16T16:58:46+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.jkl52.be/astronomy/</loc>
     <lastmod>2019-08-28T14:35:00+02:00</lastmod>
   </url>
@@ -38,8 +43,28 @@
   </url>
   
   <url>
+    <loc>https://www.jkl52.be/brewing/batches/b07/</loc>
+    <lastmod>2021-01-30T16:22:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jkl52.be/brewing/batches/b06/</loc>
+    <lastmod>2020-09-04T17:00:46+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.jkl52.be/baking/log/</loc>
     <lastmod>2020-07-19T07:22:11+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jkl52.be/brewing/batches/b05/</loc>
+    <lastmod>2020-07-04T17:58:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jkl52.be/brewing/batches/200626/</loc>
+    <lastmod>2020-06-26T20:56:46+01:00</lastmod>
   </url>
   
   <url>
@@ -165,6 +190,16 @@
   <url>
     <loc>https://www.jkl52.be/</loc>
     <lastmod>2019-06-06T14:09:43+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jkl52.be/brewing/batches/190517/</loc>
+    <lastmod>2019-06-06T14:08:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jkl52.be/brewing/batches/190223/</loc>
+    <lastmod>2019-06-06T14:07:46+02:00</lastmod>
   </url>
   
   <url>
