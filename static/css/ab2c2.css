@@ -19,6 +19,10 @@ div.columnH {
   background-color: #F6F6F6 ;
 }
 
+div.white {
+  background-color: white ;
+}
+
 /* enumberations */
 div.columnH.brew ul li {
   padding-left: 0%;
@@ -36,7 +40,11 @@ div.columnH.brew h3 {
   text-align: center;
 }
 
-
+.sticky {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
 
 table#bakerslog th {
   background-color: #F6F6F6;
