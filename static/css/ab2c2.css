@@ -44,3 +44,12 @@ table#bakerslog th {
   text-transform: capitalize;
   font-weight: bold;
 }
+
+@media screen and (max-width: 800px) {
+  main {
+    flex-direction: column;
+  }
+  main>* {
+    width: 100%;
+  }
+}
